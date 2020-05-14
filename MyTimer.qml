@@ -123,6 +123,7 @@ Rectangle {
             }
             onExited: {
                 time1_name.visible = false
+                time1_name_txt_old.visible = true
             }
             onClicked: {
                 if (time1_name_txt_new.visible) {

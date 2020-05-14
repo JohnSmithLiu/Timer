@@ -1,8 +1,6 @@
 <RCC>
     <qresource prefix="/">
         <file>main.qml</file>
-        <file>timer.json</file>
-        <file>test.txt</file>
         <file>MyTimer.qml</file>
     </qresource>
 </RCC>
